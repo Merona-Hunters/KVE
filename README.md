@@ -7,6 +7,7 @@
 - m3r0n4  (https://m3r0n4.xyz)
 - DoHyun Lee (https://fuzzing.kr)
 - JaeHyuk Lim
+- Minchan Park
 
 ## List
 
