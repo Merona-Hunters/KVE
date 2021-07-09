@@ -2,12 +2,12 @@
 
 ## Security Resercher
 
-- sqrtrev (https://vuln.live)
-- ash3r 
-- m3r0n4  (https://m3r0n4.xyz)
-- DoHyun Lee (https://fuzzing.kr)
-- JaeHyuk Lim
-- Minchan Park
+- SeungHyun Kim (https://vuln.live, sqrtrev)
+- SeungJun Kim  (http://dmawhwhd.4z.is, ash3r)
+- MinKi Jang  (https://m3r0n4.xyz, m3r0n4)
+- DoHyun Lee (https://fuzzing.kr, UyU)
+- JaeHyuk Lim (skwid)
+- Minchan Park (03stin)
 
 ## List
 
